@@ -1,0 +1,14 @@
+{
+  "name": "gladys-foscam",
+  "version": "0.1.0",
+  "description": "Gladys hooks for controlling Foscam camera.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "J@P",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "foscam": "0.2.2"
+  }
+}
